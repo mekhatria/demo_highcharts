@@ -1,0 +1,968 @@
+[{
+		"page": 1,
+		"pages": 1,
+		"per_page": "80",
+		"total": 80
+	},
+	[{
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "8.33579245363592",
+		"decimal": "1",
+		"date": "2016"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "8.84286544134922",
+		"decimal": "1",
+		"date": "2015"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "8.79407739043442",
+		"decimal": "1",
+		"date": "2014"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "8.88942130197805",
+		"decimal": "1",
+		"date": "2013"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "10.7065041030832",
+		"decimal": "1",
+		"date": "2012"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "-4.38725478828525",
+		"decimal": "1",
+		"date": "2011"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "2.01763859205302",
+		"decimal": "1",
+		"date": "2010"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "3.25145371867602",
+		"decimal": "1",
+		"date": "2009"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "2.54284147624236",
+		"decimal": "1",
+		"date": "2008"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "1.76503678370024",
+		"decimal": "1",
+		"date": "2007"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "1.51584236363406",
+		"decimal": "1",
+		"date": "2006"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "1.72124736731733",
+		"decimal": "1",
+		"date": "2005"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "1.23177283997175",
+		"decimal": "1",
+		"date": "2004"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "-1.35953594297264",
+		"decimal": "1",
+		"date": "2003"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "-1.66764213793115",
+		"decimal": "1",
+		"date": "2002"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "0.121371915123646",
+		"decimal": "1",
+		"date": "2001"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "-2.06840005678232",
+		"decimal": "1",
+		"date": "2000"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "1.61752744311248",
+		"decimal": "1",
+		"date": "1999"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "4.93067962768323",
+		"decimal": "1",
+		"date": "1998"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "CI",
+			"value": "Cote d'Ivoire"
+		},
+		"value": "3.7435531440301",
+		"decimal": "1",
+		"date": "1997"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "4.16642284823885",
+		"decimal": "1",
+		"date": "2016"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "4.71602929096085",
+		"decimal": "1",
+		"date": "2015"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "6.10620774852511",
+		"decimal": "1",
+		"date": "2014"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "6.00135635947225",
+		"decimal": "1",
+		"date": "2013"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "3.78502084146272",
+		"decimal": "1",
+		"date": "2012"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "5.91666571284991",
+		"decimal": "1",
+		"date": "2011"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "6.50425337134214",
+		"decimal": "1",
+		"date": "2010"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "5.60985736785102",
+		"decimal": "1",
+		"date": "2009"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "4.91824213770569",
+		"decimal": "1",
+		"date": "2008"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "6.48019309822267",
+		"decimal": "1",
+		"date": "2007"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "5.05743949774899",
+		"decimal": "1",
+		"date": "2006"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "6.10141533871943",
+		"decimal": "1",
+		"date": "2005"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "5.75378147339249",
+		"decimal": "1",
+		"date": "2004"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "2.9450638462622",
+		"decimal": "1",
+		"date": "2003"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "2.09479453789537",
+		"decimal": "1",
+		"date": "2002"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "4.54484432068605",
+		"decimal": "1",
+		"date": "2001"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "1.87654198939178",
+		"decimal": "1",
+		"date": "2000"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "3.23356416639626",
+		"decimal": "1",
+		"date": "1999"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "2.91981273058535",
+		"decimal": "1",
+		"date": "1998"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "XM",
+			"value": "Low income"
+		},
+		"value": "3.4541899968826",
+		"decimal": "1",
+		"date": "1997"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "1.21933256891997",
+		"decimal": "1",
+		"date": "2016"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "3.03830488774402",
+		"decimal": "1",
+		"date": "2015"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "4.62841325986562",
+		"decimal": "1",
+		"date": "2014"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "4.84179650794468",
+		"decimal": "1",
+		"date": "2013"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "3.74122749325798",
+		"decimal": "1",
+		"date": "2012"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "4.36748930435013",
+		"decimal": "1",
+		"date": "2011"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "5.38571079149732",
+		"decimal": "1",
+		"date": "2010"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "2.89999956650932",
+		"decimal": "1",
+		"date": "2009"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "5.38026255505972",
+		"decimal": "1",
+		"date": "2008"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "7.14834378391458",
+		"decimal": "1",
+		"date": "2007"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "7.06743279613104",
+		"decimal": "1",
+		"date": "2006"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "5.53422223717715",
+		"decimal": "1",
+		"date": "2005"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "11.7664363206854",
+		"decimal": "1",
+		"date": "2004"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "4.88468774395878",
+		"decimal": "1",
+		"date": "2003"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "2.97397754287148",
+		"decimal": "1",
+		"date": "2002"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "3.93451426104608",
+		"decimal": "1",
+		"date": "2001"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "3.61892989583443",
+		"decimal": "1",
+		"date": "2000"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "2.20022306137339",
+		"decimal": "1",
+		"date": "1999"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "2.45449225490995",
+		"decimal": "1",
+		"date": "1998"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "ZF",
+			"value": "Sub-Saharan Africa (excluding high income)"
+		},
+		"value": "3.6496364396228",
+		"decimal": "1",
+		"date": "1997"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.49161853695117",
+		"decimal": "1",
+		"date": "2016"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.82047815615239",
+		"decimal": "1",
+		"date": "2015"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.85206555082702",
+		"decimal": "1",
+		"date": "2014"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.63310623637577",
+		"decimal": "1",
+		"date": "2013"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.44568608111861",
+		"decimal": "1",
+		"date": "2012"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "3.17625759895381",
+		"decimal": "1",
+		"date": "2011"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "4.3164162744155",
+		"decimal": "1",
+		"date": "2010"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "-1.73751001612457",
+		"decimal": "1",
+		"date": "2009"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "1.81803959008332",
+		"decimal": "1",
+		"date": "2008"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "4.25476342477683",
+		"decimal": "1",
+		"date": "2007"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "4.31594520102298",
+		"decimal": "1",
+		"date": "2006"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "3.83959255744837",
+		"decimal": "1",
+		"date": "2005"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "4.45723058254943",
+		"decimal": "1",
+		"date": "2004"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.90865580446066",
+		"decimal": "1",
+		"date": "2003"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.15121185549822",
+		"decimal": "1",
+		"date": "2002"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "1.92263406944113",
+		"decimal": "1",
+		"date": "2001"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "4.39632646977812",
+		"decimal": "1",
+		"date": "2000"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "3.26325842951105",
+		"decimal": "1",
+		"date": "1999"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "2.51933189752755",
+		"decimal": "1",
+		"date": "1998"
+	}, {
+		"indicator": {
+			"id": "NY.GDP.MKTP.KD.ZG",
+			"value": "GDP growth (annual %)"
+		},
+		"country": {
+			"id": "1W",
+			"value": "World"
+		},
+		"value": "3.70719052580269",
+		"decimal": "1",
+		"date": "1997"
+	}]
+]
