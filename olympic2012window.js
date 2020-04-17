@@ -1,3 +1,4 @@
+console.log(window.marketingDemo);
 window.marketingDemo.data=[{
     "continent": "Asia",
     "country": "AFG",
