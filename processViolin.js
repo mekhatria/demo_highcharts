@@ -61,11 +61,11 @@ function processViolin (step, ...args) {
     tempResult[index] = violinProcess(e).slice();
     //Min, Q1, Median, Q3, Max
     stat[index].push(
-      Math.max(...e),
+      Math.min(...e),
       jStat.quartiles(e)[0],
       jStat.quartiles(e)[1],
       jStat.quartiles(e)[2],
-      Math.min(...e)
+      Math.max(...e)
     );
     index++;
   });
