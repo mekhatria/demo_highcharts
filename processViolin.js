@@ -1,13 +1,5 @@
-(function (window, factory) {
-    if (typeof exports === 'object') {
-        module.exports = factory();
-    } else if (typeof define === 'function' && define.amd) {
-        define(factory);
-    } else {
-        window.processViolin = factory();
-    }
-})(this, function () {
-var processViolin = (function(step, ...args) {
+
+function processViolin (step, ...args) {
     
     let xiData = [];
   //process the xi
@@ -81,4 +73,4 @@ var processViolin = (function(step, ...args) {
     
     
     
-})})
+}
