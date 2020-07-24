@@ -1,16 +1,14 @@
-
-function processViolin (step, ...args) {
-    
-    let xiData = [];
+function processViolin(step, precision, densityWidth, ...args) {
+  let xiData = [];
   //process the xi
-  function prcessXi(...args) {
+  function prcessXi(args) {
     let tempXdata = [];
     let tileSteps = 6; //Nbr of point at the top and end of the violin
     let min = Infinity,
       max = -Infinity;
 
-    //Auto function to process the x data
-    args[0].forEach((e) => {
+    //process the range of the data set
+    args.forEach((e) => {
       min = Math.min(min, Math.min(...e));
       max = Math.max(max, Math.max(...e));
     });
@@ -41,24 +39,23 @@ function processViolin (step, ...args) {
       data.push([xiData[i], (1 / N) * temp]);
     }
 
-    let precision = 0.00005;
     return data.map((violinPoint, i) => {
       if (violinPoint[1] > precision) {
-        return [xiData[i], -violinPoint[1] + gap, violinPoint[1] + gap];
+        return [xiData[i], -(violinPoint[1]*densityWidth) + gap, (violinPoint[1]*densityWidth) + gap];
       } else {
         return [xiData[i], null, null];
       }
     });
   }
 
-  let tempResult = [];
+  let results = [];
   let stat = [];
   let index = 0;
 
   args.forEach((e) => {
-    tempResult.push([]);
+    results.push([]);
     stat.push([]);
-    tempResult[index] = violinProcess(e).slice();
+    results[index] = violinProcess(e).slice();
     //Min, Q1, Median, Q3, Max
     stat[index].push(
       Math.min(...e),
@@ -69,8 +66,5 @@ function processViolin (step, ...args) {
     );
     index++;
   });
-  return [xiData, tempResult, stat];
-    
-    
-    
+  return { xiData, results, stat };
 }
