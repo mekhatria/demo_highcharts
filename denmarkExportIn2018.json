@@ -9,7 +9,7 @@
 {"id": "Services","name": "Services"},
 {"id": "Stone","name": "Stone"},
 {"id": "Textiles","name": "Textiles"},
-{"id": "vehicles","name": "vehicles"},
+{"id": "Vehicles","name": "Vehicles"},
 {"name": "Horses","value": 0.0151142663917422, "parent": "Agriculture"},
 {"name": "Bovine","value": 0.0378831257241724, "parent": "Agriculture"},
 {"name": "Swine","value": 0.515942852298127, "parent": "Agriculture"},
