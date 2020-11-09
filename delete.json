@@ -9747,6 +9747,7 @@
   },
   {
     "hc-a2": "MO",
+    "id":".189",
     "name": "St. Louis",
     "info": [
       {
@@ -10165,6 +10166,7 @@
   },
   {
     "hc-a2": "MO",
+    "id": ".510",
     "name": "St. Louis",
     "info": [
       {
@@ -25269,7 +25271,7 @@
   },
   {
     "hc-a2": "SD",
-    "name": "Oglala Lakota",
+    "name": "Shannon",
     "info": [
       {
         "candidate": "Biden",
@@ -26303,7 +26305,7 @@
   },
   {
     "hc-a2": "MN",
-    "name": "Lac Qui Parle",
+    "name": "Lac qui Parle",
     "info": [
       {
         "candidate": "Biden",
@@ -43083,7 +43085,7 @@
   },
   {
     "hc-a2": "NM",
-    "name": "Dona Ana",
+    "name": "Doña Ana",
     "info": [
       {
         "candidate": "Biden",
