@@ -1,0 +1,1597 @@
+[
+  {
+    "name": "Adams, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 30
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 67
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Asotin, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 35
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 61
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Benton, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 37
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 58
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Chelan, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 44
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 52
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Clallam, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 51
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 46
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Clark, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 51
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 45
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Columbia, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 26
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 70
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Cowlitz, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 39
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 57
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Douglas, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 36
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 61
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Ferry, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 34
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 63
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Franklin, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 40
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 56
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Garfield, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 24
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 71
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Grant, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 32
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 65
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Grays Harbor, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 45
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 51
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Island, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 54
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 42
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Jefferson, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 69
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 27
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "King, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 75
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 22
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Kitsap, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 57
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 38
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 4
+      }
+    ]
+  },
+  {
+    "name": "Kittitas, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 43
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 53
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Klickitat, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 44
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 53
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Lewis, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 32
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 65
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Lincoln, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 24
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 73
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Mason, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 46
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 50
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Okanogan, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 43
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 54
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Pacific, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 48
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 49
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Pend Oreille, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 30
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 66
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Pierce, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 53
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 42
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "San Juan, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 73
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 23
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Skagit, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 53
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 43
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Skamania, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 43
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 53
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Snohomish, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 58
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 37
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Spokane, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 45
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 50
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Stevens, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 30
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 67
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Thurston, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 58
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 38
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Wahkiakum, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 39
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 58
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Walla Walla, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 45
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 51
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Whatcom, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 60
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 36
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Whitman, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 52
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 43
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Yakima, WA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 44
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 53
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Baker, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 23
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 74
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Benton, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 68
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 28
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Clackamas, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 54
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 42
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Clatsop, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 54
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 42
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Columbia, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 42
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 53
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Coos, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 38
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 58
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Crook, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 24
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 73
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Curry, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 40
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 56
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Deschutes, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 52
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 44
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Douglas, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 29
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 67
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Gilliam, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 27
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 70
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 1
+      }
+    ]
+  },
+  {
+    "name": "Grant, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 20
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 77
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Harney, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 19
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 77
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Hood River, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 66
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 30
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Jackson, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 46
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 50
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Jefferson, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 36
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 60
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Josephine, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 35
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 61
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Klamath, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 28
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 68
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Lake, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 18
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 79
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Lane, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 60
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 36
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Lincoln, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 56
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 40
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Linn, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 36
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 60
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Malheur, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 27
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 69
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Marion, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 48
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 47
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Morrow, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 26
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 70
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Multnomah, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 79
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 17
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Polk, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 47
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 49
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Sherman, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 21
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 76
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Tillamook, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 47
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 49
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Umatilla, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 32
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 64
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Union, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 28
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 68
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Wallowa, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 31
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 65
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 2
+      }
+    ]
+  },
+  {
+    "name": "Wasco, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 46
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 50
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Washington, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 65
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 31
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Wheeler, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 22
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 73
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Yamhill, OR",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 46
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 50
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 3
+      }
+    ]
+  },
+  {
+    "name": "Alameda, CA",
+    "info": [
+      {
+        "candidate": "Biden",
+        "nbr": 81
+      },
+      {
+        "candidate": "Trump",
+        "nbr": 16
+      },
+      {
+        "candidate": "Pierce",
+        "nbr": 0
+      },
+      {
+        "candidate": "Other",
+        "nbr": 1
+      }
+    ]
+  }]
