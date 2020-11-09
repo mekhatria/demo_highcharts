@@ -1,5 +1,85 @@
 [
   {
+    "hc-a2": "MA",
+    "name": "Plymouth",
+    "info": [
+      { "candidate": "Biden", "nbr": 57.5 },
+      { "candidate": "Trump", "nbr": 40.6 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Middlesex",
+    "info": [
+      { "candidate": "Biden", "nbr": 71.6 },
+      { "candidate": "Trump", "nbr": 26.7 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Bristol",
+    "info": [
+      { "candidate": "Biden", "nbr": 55.0 },
+      { "candidate": "Trump", "nbr": 43.1 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Berkshire",
+    "info": [
+      { "candidate": "Biden", "nbr": 72.6 },
+      { "candidate": "Trump", "nbr": 25.5 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Hampden",
+    "info": [
+      { "candidate": "Biden", "nbr": 57.9 },
+      { "candidate": "Trump", "nbr": 40.3 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Essex",
+    "info": [
+      { "candidate": "Biden", "nbr": 63.5 },
+      { "candidate": "Trump", "nbr": 34.8 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Hampshire",
+    "info": [
+      { "candidate": "Biden", "nbr": 72.4 },
+      { "candidate": "Trump", "nbr": 25.6 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Worcester",
+    "info": [
+      { "candidate": "Biden", "nbr": 57.6 },
+      { "candidate": "Trump", "nbr": 40.1 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Franklin",
+    "info": [
+      { "candidate": "Biden", "nbr": 71.0 },
+      { "candidate": "Trump", "nbr": 26.6 }
+    ]
+  },
+  {
+    "hc-a2": "MA",
+    "name": "Norfolk",
+    "info": [
+      { "candidate": "Biden", "nbr": 67.2 },
+      { "candidate": "Trump", "nbr": 31.0 }
+    ]
+  },
+  {
     "hc-a2": "LA",
     "name": "Acadia",
     "info": [
