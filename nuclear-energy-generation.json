@@ -61,7 +61,7 @@
 		"Indicator Name": "Population, total",
 		"Indicator Code": "SP.POP.TOTL"
 	},
-	"France": {
+	"Fr": {
 		"1965":"0.897",
 "1966":"1.395",
 "1967":"2.076",
@@ -123,7 +123,7 @@
 		"Indicator Name": "Population, total",
 		"Indicator Code": "SP.POP.TOTL"
 	},
-	"United Kingdom": {
+	"UK": {
 		"1965":"15.135",
 "1966":"20.217",
 "1967":"23.277",
@@ -185,7 +185,7 @@
 		"Indicator Name": "Population, total",
 		"Indicator Code": "SP.POP.TOTL"
 	},
-	"Japan": {
+	"JP": {
 		"1965":"0.025",
 "1966":"0.584",
 "1967":"0.629",
@@ -247,7 +247,7 @@
 		"Indicator Name": "Population, total",
 		"Indicator Code": "SP.POP.TOTL"
 	},
-	"United States": {
+	"US": {
 		"1965":"3.8491569",
 "1966":"5.8104305",
 "1967":"8.05812",
